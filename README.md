@@ -1,4 +1,6 @@
 # UriHttpStatus
+IMPORTANT NOTE: This sample code is provided for the purpose of illustration only and is not intended to be used in a production environment.
+
 A console application based on .NET framework 4.7.2 to access a URI and return back the HTTP response status code either in text or numeric value. This project was created using Microsoft Visual Studio 2019.
 
 USAGE:
