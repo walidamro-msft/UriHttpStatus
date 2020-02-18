@@ -13,5 +13,5 @@ uri             URI that you need to check status for.
 
 You can only use one option, either -text or -numeric and you cannot use both together.
 
-Here is a regerence for what does the HTTP status code means:
+Here is a reference for what does the HTTP status code means:
 https://docs.microsoft.com/en-us/dotnet/api/system.net.httpstatuscode
